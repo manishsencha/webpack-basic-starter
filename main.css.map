@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;IACI,SAAS;IACT,UAAU;AACd;AACA;IACI,aAAa;IACb,YAAY;IACZ,sBAAsB;AAC1B,C","sources":["webpack://webpack-basic-starter/./src/styles.css"],"sourcesContent":["*{\n    margin: 0;\n    padding: 0;\n}\nbody {\n    height: 100vh;\n    width: 100vw;\n    background-color: aqua;\n}"],"names":[],"sourceRoot":""}
